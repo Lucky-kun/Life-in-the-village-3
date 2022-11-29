@@ -10,7 +10,7 @@ if "%name%" == "" (
 if NOT "%branch%" == "" (
     git checkout "%branch%"
 ) else (
-    set branch=master
+    set branch=main
 )
 
 git add *
