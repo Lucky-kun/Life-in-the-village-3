@@ -1,0 +1,79 @@
+[20:03:17] [INFO ] Starting recipe modification scripts...
+[20:03:17] [INFO ] Loaded script server_scripts:script.js in 0.002 s
+[20:03:17] [INFO ] Loaded 1/1 KubeJS server scripts in 0.009 s
+[20:03:17] [INFO ] Scripts loaded
+[20:03:17] [INFO ] Scanning recipes...
+[20:03:34] [WARN ] Failed to parse recipe 'create:compat/projectvibrantjourneys/cutting/mangrove_log[create:cutting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'projectvibrantjourneys:mangrove_log'
+[20:03:34] [WARN ] Failed to parse recipe create:compat/projectvibrantjourneys/cutting/mangrove_log[create:cutting]: com.google.gson.JsonSyntaxException: Unknown item 'projectvibrantjourneys:mangrove_log'
+[20:03:34] [WARN ] Failed to parse recipe 'create:compat/projectvibrantjourneys/cutting/stripped_baobab_log[create:cutting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'projectvibrantjourneys:stripped_baobab_log'
+[20:03:34] [WARN ] Failed to parse recipe create:compat/projectvibrantjourneys/cutting/stripped_baobab_log[create:cutting]: com.google.gson.JsonSyntaxException: Unknown item 'projectvibrantjourneys:stripped_baobab_log'
+[20:03:34] [WARN ] Failed to parse recipe 'create:compat/projectvibrantjourneys/cutting/stripped_pine_log[create:cutting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'projectvibrantjourneys:stripped_pine_log'
+[20:03:34] [WARN ] Failed to parse recipe create:compat/projectvibrantjourneys/cutting/stripped_pine_log[create:cutting]: com.google.gson.JsonSyntaxException: Unknown item 'projectvibrantjourneys:stripped_pine_log'
+[20:03:34] [WARN ] Failed to parse recipe 'create:compat/projectvibrantjourneys/cutting/stripped_fir_log[create:cutting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'projectvibrantjourneys:stripped_fir_log'
+[20:03:34] [WARN ] Failed to parse recipe create:compat/projectvibrantjourneys/cutting/stripped_fir_log[create:cutting]: com.google.gson.JsonSyntaxException: Unknown item 'projectvibrantjourneys:stripped_fir_log'
+[20:03:34] [WARN ] Failed to parse recipe 'create:compat/projectvibrantjourneys/cutting/palm_log[create:cutting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'projectvibrantjourneys:palm_log'
+[20:03:34] [WARN ] Failed to parse recipe create:compat/projectvibrantjourneys/cutting/palm_log[create:cutting]: com.google.gson.JsonSyntaxException: Unknown item 'projectvibrantjourneys:palm_log'
+[20:03:34] [WARN ] Failed to parse recipe 'create:compat/projectvibrantjourneys/cutting/cottonwood_log[create:cutting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'projectvibrantjourneys:cottonwood_log'
+[20:03:34] [WARN ] Failed to parse recipe create:compat/projectvibrantjourneys/cutting/cottonwood_log[create:cutting]: com.google.gson.JsonSyntaxException: Unknown item 'projectvibrantjourneys:cottonwood_log'
+[20:03:34] [WARN ] Failed to parse recipe 'create:compat/projectvibrantjourneys/cutting/pine_log[create:cutting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'projectvibrantjourneys:pine_log'
+[20:03:34] [WARN ] Failed to parse recipe create:compat/projectvibrantjourneys/cutting/pine_log[create:cutting]: com.google.gson.JsonSyntaxException: Unknown item 'projectvibrantjourneys:pine_log'
+[20:03:34] [WARN ] Failed to parse recipe 'create:compat/projectvibrantjourneys/cutting/stripped_palm_log[create:cutting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'projectvibrantjourneys:stripped_palm_log'
+[20:03:34] [WARN ] Failed to parse recipe create:compat/projectvibrantjourneys/cutting/stripped_palm_log[create:cutting]: com.google.gson.JsonSyntaxException: Unknown item 'projectvibrantjourneys:stripped_palm_log'
+[20:03:34] [WARN ] Failed to parse recipe 'create:compat/projectvibrantjourneys/cutting/aspen_log[create:cutting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'projectvibrantjourneys:aspen_log'
+[20:03:34] [WARN ] Failed to parse recipe create:compat/projectvibrantjourneys/cutting/aspen_log[create:cutting]: com.google.gson.JsonSyntaxException: Unknown item 'projectvibrantjourneys:aspen_log'
+[20:03:34] [WARN ] Failed to parse recipe 'create:compat/projectvibrantjourneys/cutting/willow_log[create:cutting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'projectvibrantjourneys:willow_log'
+[20:03:34] [WARN ] Failed to parse recipe create:compat/projectvibrantjourneys/cutting/willow_log[create:cutting]: com.google.gson.JsonSyntaxException: Unknown item 'projectvibrantjourneys:willow_log'
+[20:03:34] [WARN ] Failed to parse recipe 'terraincognita:compat/buzzier_bees/hazel_beehive[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'terraincognita:hazel_beehive'
+[20:03:34] [WARN ] Failed to parse recipe terraincognita:compat/buzzier_bees/hazel_beehive[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'terraincognita:hazel_beehive'
+[20:03:34] [WARN ] Failed to parse recipe 'create:compat/projectvibrantjourneys/cutting/stripped_maple_log[create:cutting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'projectvibrantjourneys:stripped_maple_log'
+[20:03:34] [WARN ] Failed to parse recipe create:compat/projectvibrantjourneys/cutting/stripped_maple_log[create:cutting]: com.google.gson.JsonSyntaxException: Unknown item 'projectvibrantjourneys:stripped_maple_log'
+[20:03:34] [WARN ] Failed to parse recipe 'create:compat/projectvibrantjourneys/cutting/fir_log[create:cutting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'projectvibrantjourneys:fir_log'
+[20:03:34] [WARN ] Failed to parse recipe create:compat/projectvibrantjourneys/cutting/fir_log[create:cutting]: com.google.gson.JsonSyntaxException: Unknown item 'projectvibrantjourneys:fir_log'
+[20:03:34] [WARN ] Failed to parse recipe 'create_sa:magma_cream_recipe[create:mixing]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'minecraft:slime'
+[20:03:34] [WARN ] Failed to parse recipe create_sa:magma_cream_recipe[create:mixing]: com.google.gson.JsonSyntaxException: Unknown item 'minecraft:slime'
+[20:03:34] [WARN ] Failed to parse recipe 'create:compat/projectvibrantjourneys/cutting/stripped_redwood_log[create:cutting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'projectvibrantjourneys:stripped_redwood_log'
+[20:03:34] [WARN ] Failed to parse recipe create:compat/projectvibrantjourneys/cutting/stripped_redwood_log[create:cutting]: com.google.gson.JsonSyntaxException: Unknown item 'projectvibrantjourneys:stripped_redwood_log'
+[20:03:34] [WARN ] Failed to parse recipe 'create:compat/projectvibrantjourneys/cutting/juniper_log[create:cutting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'projectvibrantjourneys:juniper_log'
+[20:03:34] [WARN ] Failed to parse recipe create:compat/projectvibrantjourneys/cutting/juniper_log[create:cutting]: com.google.gson.JsonSyntaxException: Unknown item 'projectvibrantjourneys:juniper_log'
+[20:03:34] [WARN ] Failed to parse recipe 'alexsdelight:barbecue_on_a_stick[minecraft:crafting_shapeless]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'amfd:singular_cooked_moose_rib'
+[20:03:34] [WARN ] Failed to parse recipe alexsdelight:barbecue_on_a_stick[minecraft:crafting_shapeless]: com.google.gson.JsonSyntaxException: Unknown item 'amfd:singular_cooked_moose_rib'
+[20:03:34] [WARN ] Failed to parse recipe 'terraincognita:compat/buzzier_bees/ginkgo_beehive[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'terraincognita:ginkgo_beehive'
+[20:03:34] [WARN ] Failed to parse recipe terraincognita:compat/buzzier_bees/ginkgo_beehive[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'terraincognita:ginkgo_beehive'
+[20:03:34] [WARN ] Failed to parse recipe 'create:compat/projectvibrantjourneys/cutting/stripped_juniper_log[create:cutting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'projectvibrantjourneys:stripped_juniper_log'
+[20:03:34] [WARN ] Failed to parse recipe create:compat/projectvibrantjourneys/cutting/stripped_juniper_log[create:cutting]: com.google.gson.JsonSyntaxException: Unknown item 'projectvibrantjourneys:stripped_juniper_log'
+[20:03:34] [WARN ] Failed to parse recipe 'create:compat/projectvibrantjourneys/cutting/stripped_cottonwood_log[create:cutting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'projectvibrantjourneys:stripped_cottonwood_log'
+[20:03:34] [WARN ] Failed to parse recipe create:compat/projectvibrantjourneys/cutting/stripped_cottonwood_log[create:cutting]: com.google.gson.JsonSyntaxException: Unknown item 'projectvibrantjourneys:stripped_cottonwood_log'
+[20:03:34] [WARN ] Failed to parse recipe 'create:compat/projectvibrantjourneys/cutting/baobab_log[create:cutting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'projectvibrantjourneys:baobab_log'
+[20:03:34] [WARN ] Failed to parse recipe create:compat/projectvibrantjourneys/cutting/baobab_log[create:cutting]: com.google.gson.JsonSyntaxException: Unknown item 'projectvibrantjourneys:baobab_log'
+[20:03:34] [WARN ] Failed to parse recipe 'terraincognita:compat/buzzier_bees/larch_beehive[minecraft:crafting_shaped]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'terraincognita:larch_beehive'
+[20:03:34] [WARN ] Failed to parse recipe terraincognita:compat/buzzier_bees/larch_beehive[minecraft:crafting_shaped]: com.google.gson.JsonSyntaxException: Unknown item 'terraincognita:larch_beehive'
+[20:03:34] [WARN ] Failed to parse recipe 'create:compat/projectvibrantjourneys/cutting/stripped_mangrove_log[create:cutting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'projectvibrantjourneys:stripped_mangrove_log'
+[20:03:34] [WARN ] Failed to parse recipe create:compat/projectvibrantjourneys/cutting/stripped_mangrove_log[create:cutting]: com.google.gson.JsonSyntaxException: Unknown item 'projectvibrantjourneys:stripped_mangrove_log'
+[20:03:34] [WARN ] Failed to parse recipe 'create:compat/projectvibrantjourneys/cutting/stripped_aspen_log[create:cutting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'projectvibrantjourneys:stripped_aspen_log'
+[20:03:34] [WARN ] Failed to parse recipe create:compat/projectvibrantjourneys/cutting/stripped_aspen_log[create:cutting]: com.google.gson.JsonSyntaxException: Unknown item 'projectvibrantjourneys:stripped_aspen_log'
+[20:03:34] [WARN ] Failed to parse recipe 'create:compat/projectvibrantjourneys/cutting/redwood_log[create:cutting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'projectvibrantjourneys:redwood_log'
+[20:03:34] [WARN ] Failed to parse recipe create:compat/projectvibrantjourneys/cutting/redwood_log[create:cutting]: com.google.gson.JsonSyntaxException: Unknown item 'projectvibrantjourneys:redwood_log'
+[20:03:34] [WARN ] Failed to parse recipe 'create:compat/projectvibrantjourneys/cutting/maple_log[create:cutting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'projectvibrantjourneys:maple_log'
+[20:03:34] [WARN ] Failed to parse recipe create:compat/projectvibrantjourneys/cutting/maple_log[create:cutting]: com.google.gson.JsonSyntaxException: Unknown item 'projectvibrantjourneys:maple_log'
+[20:03:34] [WARN ] Failed to parse recipe 'create:compat/projectvibrantjourneys/cutting/stripped_willow_log[create:cutting]'! Falling back to vanilla: com.google.gson.JsonSyntaxException: Unknown item 'projectvibrantjourneys:stripped_willow_log'
+[20:03:34] [WARN ] Failed to parse recipe create:compat/projectvibrantjourneys/cutting/stripped_willow_log[create:cutting]: com.google.gson.JsonSyntaxException: Unknown item 'projectvibrantjourneys:stripped_willow_log'
+[20:03:34] [INFO ] Found 11764 recipes and 0 failed recipes in 474.7 ms
+[20:03:34] [INFO ] server_scripts:script.js:11: - usefulhats:aquanaut_helmet[minecraft:crafting_shaped]: ['minecraft:scute', 'minecraft:turtle_helmet', '#forge:glass_panes'] -> [Item.of('usefulhats:aquanaut_helmet', '{Damage:0}')]
+[20:03:34] [INFO ] server_scripts:script.js:12: - usefulhats:bunny_ears[minecraft:crafting_shaped]: ['minecraft:rabbit_hide', 'minecraft:carrot'] -> [Item.of('usefulhats:bunny_ears', '{Damage:0}')]
+[20:03:34] [INFO ] server_scripts:script.js:13: - usefulhats:chopping_hat[minecraft:crafting_shaped]: ['minecraft:rabbit_hide'] -> [Item.of('usefulhats:chopping_hat', '{Damage:0}')]
+[20:03:34] [INFO ] server_scripts:script.js:14: - usefulhats:ender_helmet[minecraft:crafting_shaped]: ['minecraft:ender_pearl'] -> [Item.of('usefulhats:ender_helmet', '{Damage:0}')]
+[20:03:34] [INFO ] server_scripts:script.js:15: - usefulhats:halo[minecraft:crafting_shaped]: ['minecraft:nether_star', 'minecraft:glowstone_dust'] -> [Item.of('usefulhats:halo', '{Damage:0}')]
+[20:03:34] [INFO ] server_scripts:script.js:16: - usefulhats:lucky_hat[minecraft:crafting_shaped]: ['minecraft:lime_wool', 'minecraft:rabbit_foot'] -> [Item.of('usefulhats:lucky_hat', '{Damage:0}')]
+[20:03:34] [INFO ] server_scripts:script.js:17: - usefulhats:mining_hat[minecraft:crafting_shaped]: ['minecraft:gold_ingot', 'minecraft:glowstone_dust'] -> [Item.of('usefulhats:mining_hat', '{Damage:0}')]
+[20:03:34] [INFO ] server_scripts:script.js:18: - usefulhats:mushroom_hat[minecraft:crafting_shaped]: ['#forge:mushroom_caps'] -> [Item.of('usefulhats:mushroom_hat', '{Damage:0}')]
+[20:03:34] [INFO ] server_scripts:script.js:19: - usefulhats:postman_hat[minecraft:crafting_shaped]: ['minecraft:lapis_lazuli', 'minecraft:gold_nugget'] -> [Item.of('usefulhats:postman_hat', '{Damage:0}')]
+[20:03:34] [INFO ] server_scripts:script.js:20: - usefulhats:shulker_helmet[minecraft:crafting_shaped]: ['minecraft:shulker_shell', 'minecraft:phantom_membrane'] -> [Item.of('usefulhats:shulker_helmet', '{Damage:0}')]
+[20:03:34] [INFO ] server_scripts:script.js:21: - usefulhats:stocking_cap[minecraft:crafting_shaped]: ['minecraft:string'] -> [Item.of('usefulhats:stocking_cap', '{Damage:0}')]
+[20:03:34] [INFO ] server_scripts:script.js:22: - usefulhats:straw_hat[minecraft:crafting_shaped]: ['minecraft:wheat'] -> [Item.of('usefulhats:straw_hat', '{Damage:0}')]
+[20:03:34] [INFO ] server_scripts:script.js:23: - usefulhats:wing_helmet[minecraft:crafting_shaped]: ['minecraft:phantom_membrane', 'minecraft:feather'] -> [Item.of('usefulhats:wing_helmet', '{Damage:0}')]
+[20:03:34] [INFO ] server_scripts:script.js:25: + kubejs:shaped: ['kubejs:diamond_nugget'] -> ['minecraft:diamond']
+[20:03:34] [INFO ] server_scripts:script.js:33: + kubejs:shaped: ['kubejs:emerald_nugget'] -> ['minecraft:emerald']
+[20:03:34] [INFO ] Posted recipe events in 68.69 ms
+[20:03:34] [INFO ] Modified & removed recipes in 170.5 ms
+[20:03:34] [INFO ] Added recipes in 2.312 ms
+[20:03:34] [INFO ] Added 2 recipes, removed 13 recipes, modified 0 recipes, with 0 failed recipes and 0 fall-backed recipes

@@ -1,0 +1,20 @@
+{
+	id: "a78c9354-4c41-4811-82d1-f932fa53ed01"
+	type: "player"
+	player_name: "Lucky1102"
+	ranks: {
+		a78c9354-4c41-4811-82d1-f932fa53ed01: "owner"
+	}
+	properties: {
+		"ftbchunks:allow_explosions": 0b
+		"ftbteams:display_name": "Lucky1102"
+		"ftbteams:color": "#FFDB59"
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+		"ftbchunks:allow_fake_players": 1b
+	}
+	message_history: [ ]
+	extra: { }
+}

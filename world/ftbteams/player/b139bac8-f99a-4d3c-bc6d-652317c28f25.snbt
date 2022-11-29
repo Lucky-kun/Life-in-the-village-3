@@ -1,0 +1,20 @@
+{
+	id: "b139bac8-f99a-4d3c-bc6d-652317c28f25"
+	type: "player"
+	player_name: "Supr3mux"
+	ranks: {
+		b139bac8-f99a-4d3c-bc6d-652317c28f25: "owner"
+	}
+	properties: {
+		"ftbchunks:allow_explosions": 0b
+		"ftbteams:display_name": "Supr3mux"
+		"ftbteams:color": "#5D59FF"
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+		"ftbchunks:allow_fake_players": 1b
+	}
+	message_history: [ ]
+	extra: { }
+}

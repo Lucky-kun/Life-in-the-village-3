@@ -1,0 +1,20 @@
+{
+	id: "e33d8978-68f3-4ee4-a9f5-45ed5a17f063"
+	type: "player"
+	player_name: "ErDesa_02"
+	ranks: {
+		e33d8978-68f3-4ee4-a9f5-45ed5a17f063: "owner"
+	}
+	properties: {
+		"ftbchunks:allow_explosions": 0b
+		"ftbteams:display_name": "ErDesa_02"
+		"ftbteams:color": "#59FF74"
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+		"ftbchunks:allow_fake_players": 1b
+	}
+	message_history: [ ]
+	extra: { }
+}

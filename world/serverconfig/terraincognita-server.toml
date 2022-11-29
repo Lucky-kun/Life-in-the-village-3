@@ -1,0 +1,23 @@
+#Adds height variation to cacti, sugarcane and sedge.
+#Default: true
+"Plant Height Variation" = true
+#Allows growing lily pads by using bonemeal in shallow water pools.
+#Default: true
+"Bonemeal Lilypad Growing" = true
+#Default: 3
+#Range: 0 ~ 8
+"Taffy Healing Amount" = 3
+#Default: 0.2
+#Range: 0.0 ~ 1.0
+"Fiddlehead Drop Chance" = 0.2
+#Default: 0.125
+#Range: 0.0 ~ 1.0
+"Caltrops Break Chance" = 0.125
+
+[Peat]
+	#Default: 0.25
+	#Range: 0.0 ~ 1.0
+	"Growth Rate Bonus" = 0.25
+	#Default: true
+	"Particles Enabled" = true
+
